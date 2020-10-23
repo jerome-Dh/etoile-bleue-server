@@ -2,3 +2,4 @@ test.c
 review.txt
 .vscode
 *.o
+server
