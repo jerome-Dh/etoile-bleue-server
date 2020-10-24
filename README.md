@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/jerome-Dh/first-bicycle-runner/master/www/favicon.png" width="72" alt="Icone"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/jerome-Dh/etoile-bleue-server/master/www/favicon.png" width="72" alt="Icone"></p>
 
 # Etoile Bleue Server
 
