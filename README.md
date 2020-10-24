@@ -4,7 +4,7 @@
 
 ## About Etoile Bleue
 
-Etoile Bleue is a lightweight web server that implements the HTTP/2.0 protocol.
+Etoile Bleue is a lightweight web server that implements the HTTP/2 protocol.
 It was designed to perform hybrid parallel execution to reduce query latency and then deliver high performance.
 This project was formalized in university research.
 
