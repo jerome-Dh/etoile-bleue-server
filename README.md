@@ -4,7 +4,7 @@
 
 ## About Etoile Bleue
 
-Etoile Bleue is a lightweight web server that implements the HTTP / 2.0 protocol.
+Etoile Bleue is a lightweight web server that implements the HTTP/2.0 protocol.
 It was designed to perform hybrid parallel execution to reduce query latency and then deliver high performance.
 This project was formalized in university research.
 
@@ -12,7 +12,7 @@ This project was formalized in university research.
 
 The project is organized in several sub-directories.
 To compile this you can just use the included makefile by running the command
-``$ make all`` then run it with ``$. /server``
+``$ make all`` then run it with ``$. /server`` command.
 
 To change the port or host name, refer to the ``config.h`` file located in the ``headers`` directory before doing the compilation.
 Many other configurations can be done by modifying this configuration file.
